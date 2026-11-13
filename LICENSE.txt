@@ -1,0 +1,8 @@
+Content/data: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — rights holders: not declared.
+Source code of LIT-STELE and verify_chain.py: BSD-3-Clause (https://gitlab.tugraz.at/ed-tech/2026/lit-stele/-/blob/main/LICENSE).
+
+The rights in the analysed publications and in every source passage quoted from them
+remain with their respective rights holders. Every row carrying such content names them
+in the field `credit` (built from the columns `authors` and `license` in `studies.csv`).
+Publications without a licence that permits republication are withheld: not a word of
+them appears here, only a commitment.
